@@ -154,5 +154,6 @@
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
     },
-    "domain": "https://scientific-anemone-dd218.netlify.app"
+    "domain": "https://scientific-anemone-dd218.netlify.app",
+    "favicon": "/images/1-0f3d6a52.png"
 }
